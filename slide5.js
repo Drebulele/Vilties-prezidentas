@@ -1,0 +1,13 @@
+(function(){var loadHandler=window['sl_{D936C07E-E99E-482A-89C0-B9467902D33F}'];loadHandler&&loadHandler(4, '<div id="spr0_a96fcc1"><div id="spr1_a96fcc1" class="kern slide"><img id="img8_a96fcc1" src="data/img8.png" width="1899px" height="1332px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_a96fcc1" class="kern slide"><div id="spr3_a96fcc1" style="left:-1130.471px;top:-139.455px;"><img id="img0_a96fcc1" src="data/img23.png" width="1898" height="654" alt="" style="left:0.5px;top:0.14px;"/></div><div id="spr4_a96fcc1" style="left:1487.859px;top:-172.629px;"><img id="img1_a96fcc1" src="data/img28.png" width="754" height="1332" alt="A newspaper with black text\
+\
+Description automatically generated" style="left:-0.054px;"/></div><div id="spr5_a96fcc1" style="left:40.267px;top:30.546px;"><img id="img2_a96fcc1" src="data/img29.png" width="1374" height="1049" alt="A person in a suit and tie\
+\
+Description automatically generated" style="left:3.273px;top:4.367px;"/></div><div id="spr6_a96fcc1" style="left:943.727px;top:942.271px;"><img id="img3_a96fcc1" src="data/img30.png" width="756" height="344" alt="A black and white border with black text\
+\
+Description automatically generated" style="left:0.051px;top:0.263px;"/></div><div id="spr7_a96fcc1" style="left:107.302px;top:817.175px;"><img id="img4_a96fcc1" src="data/img31.png" width="789" height="526" alt="A black and white text on a white background\
+\
+Description automatically generated" style="left:0.304px;top:-0.023px;"/></div><div id="spr8_a96fcc1" style="left:252.017px;top:682.083px;"><img id="img5_a96fcc1" src="data/img17.png" width="120" height="119" alt="A green hand cursor with a black background\
+\
+Description automatically generated" style="left:0.126px;top:0.235px;"/></div><div id="spr9_a96fcc1" style="left:1068.068px;top:606.265px;"><img id="img6_a96fcc1" src="data/img17.png" width="120" height="119" alt="A green hand cursor with a black background\
+\
+Description automatically generated" style="left:0.126px;top:0.235px;"/></div><div id="spr10_a96fcc1" style="left:1676px;top:1160px;"><a id="hl0_a96fcc1" href="#" onclick="document.getElementById(\'coreSpr_9880793\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_9880793\').getCore().gotoSlide(5, this);return false;"><img id="img7_a96fcc1" src="data/img18.png" width="214" height="151" alt=""/></a></div></div></div>', '{"s":[]}');})();
